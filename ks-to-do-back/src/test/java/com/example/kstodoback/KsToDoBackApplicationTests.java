@@ -1,13 +1,13 @@
-package com.example.todo;
+package com.example.kstodoback;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ToDoApplicationTests {
+class KsToDoBackApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+  @Test
+  void contextLoads() {
+  }
 
 }
